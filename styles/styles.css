@@ -5,3 +5,7 @@ body{
     font-family: roboto-regular;
     /* color:deeppink */
 }
+img{
+    height:auto
+    width: 600px
+}
