@@ -1,0 +1,7 @@
+@font-face { font-family: roboto-regular;
+    src: url('../fonts/Roboto-Regular.ttf'); }
+
+body{
+    font-family: roboto-regular;
+    /* color:deeppink */
+}
